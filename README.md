@@ -1,6 +1,8 @@
 # first_project
 
-A new Flutter project.
+My Name : Khairy mahgoub 
+
+A Mobile App Apllication By Using Flutter project.
 
 ## Getting Started
 
