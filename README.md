@@ -2,7 +2,7 @@
 
 My Name : Khairy mahgoub 
 
-A Mobile App Apllication By Using Flutter project.
+A Mobile App Apllication project By Using Flutter .
 
 ## Getting Started
 
